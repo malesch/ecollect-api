@@ -1,7 +1,8 @@
 (ns ecollect.core
   (:require [clj-http.client :as http]
             [clojure.data.json :as json]
-            [ecollect.api :as api]))
+            [ecollect.api :as api]
+            [ecollect.examples :as ex]))
 
 ;; Obsolete credentials (no more valid)
 (def config {:endpoint "https://sandbox-api.ecollect.org"
