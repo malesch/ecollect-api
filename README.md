@@ -8,7 +8,7 @@ This project is simply for testing the REST API access for the [eCollect] (https
 Date: 13.06.2014
 
 
-##License
+## License
 
 Copyright © 2016 Marcus Spiegel
 
